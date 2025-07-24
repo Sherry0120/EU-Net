@@ -3,7 +3,7 @@
 This is the repo for an enhanced version of U-Net, namely EU-Net
 
 <div align="center">
-  <img src="pic/architecture.png" alt="Model Architecture" width="600"/>
+  <img src="pic/EU-Net.png" alt="Model Architecture" width="600"/>
 </div>
 
 ## Environment
